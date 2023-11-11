@@ -1,4 +1,4 @@
-<img src="name.png" width='70%'>
+<img src="name.png" width='100%'>
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomohiron907&theme=dark)
