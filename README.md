@@ -1,11 +1,11 @@
 <img src="name.png" width='100%'>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomohiron907&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tomohiron907&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tomohiron907&theme=dark&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tomohiron907&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tomohiron907&theme=dark)
+
+[![](https://raw.githubusercontent.com/tomohiron907/tomohiron907/main/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/tomohiron907/tomohiron907/main/profile-summary-card-output/dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tomohiron907/tomohiron907/main/profile-summary-card-output/dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/tomohiron907/tomohiron907/main/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tomohiron907/tomohiron907/main/profile-summary-card-output/dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20tomohiron907)](https://github.com/tomohiron907)
 [![X](https://img.shields.io/badge/--FFFFFF?style=social&logo=twitter&label=Follow%20@tamutamu3D)](https://twitter.com/@tamutamu3D)
